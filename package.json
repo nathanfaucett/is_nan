@@ -1,6 +1,6 @@
 {
   "name": "is_nan",
-  "version": "0.0.1",
+  "version": "0.0.11",
   "description": "is_nan for the browser and node.js",
   "repository": {
     "type": "git",
@@ -21,6 +21,6 @@
     "mocha": "^2.1.0"
   },
   "dependencies": {
-    "is_number": "nathanfaucett/is_number"
+    "is_number": ""
   }
 }
