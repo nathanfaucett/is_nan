@@ -21,6 +21,6 @@
     "mocha": "^2.1.0"
   },
   "dependencies": {
-    "is_number": ""
+    "is_number": "git://github.com/nathanfaucett/is_number"
   }
 }
