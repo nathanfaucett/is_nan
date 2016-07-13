@@ -1,4 +1,11 @@
 isNaN
 =======
 
-isNaN for the browser and node.js
+checks if value is NaN
+
+```javascript
+var isNaN = require("@nathanfaucett/is_nan");
+
+
+isNaN(NaN); // true
+```
