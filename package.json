@@ -1,6 +1,6 @@
 {
   "name": "@nathanfaucett/is_nan",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "checks if value is NaN",
   "repository": {
     "type": "git",
@@ -29,6 +29,6 @@
     "zuul": "^3.0.0"
   },
   "dependencies": {
-    "is_number": "git://github.com/nathanfaucett/is_number"
+    "@nathanfaucett/is_number": "^0.0.1"
   }
 }
